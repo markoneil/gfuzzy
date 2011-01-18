@@ -5,7 +5,7 @@ Gfuzzy is a python library used for creating a [fuzzy-logic http://en.wikipedia.
 
 = Discussion =
 
-[http://groups.google.com/group/gfuzzy | View the discussion group]
+[http://groups.google.com/group/gfuzzy View the discussion group]
 
 = Documentation =
   * Getting started
