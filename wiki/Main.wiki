@@ -1,5 +1,4 @@
-This page describes the 
-
+#labels Featured
 = Introduction =
 
 Gfuzzy is a python library used for creating a [fuzzy-logic http://en.wikipedia.org/wiki/Fuzzy_logic] inference engine. 
