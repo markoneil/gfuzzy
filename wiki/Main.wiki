@@ -23,7 +23,7 @@ Visit the discussion group.
   * Triangle
   * Trapezoid
 
-== Operations ==
+== Operations ==d
   * And
   * Or
   * Multiplication
