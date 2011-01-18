@@ -1,13 +1,22 @@
 #labels Featured
-= Introduction =
+= What is it? =
 
 Gfuzzy is a python library used for creating a [fuzzy-logic http://en.wikipedia.org/wiki/Fuzzy_logic] inference engine. 
 
+= Discussion =
+
+[View the discussion group | http://groups.google.com/group/gfuzzy]
+
+= Documentation =
+  * Getting started
+  * Configuration tutorial
+  * Available sets/operations
 
 = Details =
 
 Multiple sets and operations are available:
 
+Visit the discussion group.
 
 == Sets ==
   * Rectangle
