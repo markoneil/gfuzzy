@@ -1,1 +1,11 @@
-#TODO
+Multiple sets and operations are available
+
+= Sets =
+  * Rectangle
+  * Triangle
+  * Trapezoid
+= Operations =
+  * And
+  * Or
+  * Multiplication
+  * Addition
