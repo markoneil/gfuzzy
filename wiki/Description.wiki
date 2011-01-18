@@ -1,0 +1,25 @@
+This page describes the 
+
+= Introduction =
+
+Gfuzzy is a python library used for creating a [[fuzzy-logic|http://en.wikipedia.org/wiki/Fuzzy_logic]] inference engine. 
+
+
+= Details =
+
+Multiple sets and operations are available:
+
+
+== Sets ==
+- Rectangle
+- Triangle
+- Trapezoid
+
+== Operations ==
+- And
+- Or
+- Multiplication
+- Addition
+WikiWordLink
+[http://domain/page label]
+http://domain/page
