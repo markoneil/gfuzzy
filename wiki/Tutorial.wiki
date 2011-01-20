@@ -3,7 +3,7 @@ This page describes how to bootstrap a basic config for gfuzzy.
 = Code =
 The minimal code would look like:
 
-`
+{{{
 import system
 
 self.system = system.System()
@@ -12,6 +12,6 @@ inputs = {'set1': [0, 1, 2], 'set2': [2, 1, 0]}
 self.system.UpdateValues(inputs)
 outputs = self.system.results.copy()
 
-`
+}}}
 
 = Config File =
