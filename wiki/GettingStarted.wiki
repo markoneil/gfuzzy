@@ -10,8 +10,8 @@ We use subversion as our source control system. In order to get the latest versi
 
 `svn checkout http://gfuzzy.googlecode.com/svn/trunk/ gfuzzy-read-only`
 
-= Compile the protocol buffer =
-The protocol buffer file has to be compiled to a python script. You MUST run the following command:
+= Compile the protocol buffer interface =
+The protocol buffer specification file has to be compiled to a python script. You MUST run the following command:
 
 `make`
 = Run the tests =
