@@ -9,7 +9,7 @@ The following packages need to be installed:
 We use subversion as our source control system. In order to get the latest version of the code, just type:
 
 `svn checkout http://gfuzzy.googlecode.com/svn/trunk/ gfuzzy-read-only`
-
+`cd gfuzzy-read-only`
 = Compile the protocol buffer interface =
 The protocol buffer specification file has to be compiled to a python script. You MUST run the following command:
 
