@@ -20,4 +20,4 @@ In order to make sure that the code distribution works well and that you have th
 `make test`
 = Tutorial =
 
-Once all tests pass, you can go to the Tutorial page, which will show you some of the gfuzzy basics.
+Once all tests pass, you can go to the ConfigurationTutorial page, which will show you some of the gfuzzy basics.
