@@ -1,4 +1,4 @@
-Multiple sets and operations are available
+Multiple sets and operations are available. See various unit tests for how to use them.
 
 = Sets =
   * Rectangle
